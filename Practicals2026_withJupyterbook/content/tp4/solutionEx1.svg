@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="solutionEx1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.71624579"
+     inkscape:cx="332.98625"
+     inkscape:cy="289.70502"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:10px;line-height:1.2;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:round"
+       x="-54.124611"
+       y="31.053848"
+       id="text243"><tspan
+         sodipodi:role="line"
+         id="tspan241"
+         style="text-align:start;text-anchor:start;stroke-width:0.7"
+         x="-54.124611"
+         y="31.053848">1 r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan419">11</tspan> r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan417">12</tspan> ... r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan421">1n</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:0.7"
+         x="-54.124611"
+         y="43.053848"
+         id="tspan295">2 r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan423">21</tspan> r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan425">22</tspan> ... r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan427">2n</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:0.7"
+         x="-54.124611"
+         y="55.053848"
+         id="tspan297">...</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:0.7"
+         x="-54.124611"
+         y="67.053848"
+         id="tspan299">N r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan429">N1</tspan> r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan431">N2</tspan> ... r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan433">Nn</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;line-height:1.2;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:round"
+       x="79.999657"
+       y="13.549848"
+       id="text411"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.7"
+         x="79.999657"
+         y="13.549848"
+         id="tspan435">1 |r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan415">11</tspan>-r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan413">t1</tspan>| 1</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.7"
+         x="79.999657"
+         y="25.549849"
+         id="tspan451">1 |r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan457">12</tspan>-r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan459">t2</tspan>| 1</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.7"
+         x="79.999657"
+         y="37.54985"
+         id="tspan505">...</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.7"
+         x="79.999657"
+         y="49.54985"
+         id="tspan503">1 |r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan507">1n</tspan>-r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan509">tn</tspan>| 1</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.7"
+         x="79.999657"
+         y="61.54985"
+         id="tspan511">2 | r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan515">21</tspan>-r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan513">t1</tspan>| 1</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.7"
+         x="79.999657"
+         y="73.54985"
+         id="tspan453">...</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.7"
+         x="79.999657"
+         y="85.54985"
+         id="tspan455">N r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan461">Nn</tspan>-r<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan463">tn</tspan>| 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;line-height:1.2;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:round"
+       x="155.54898"
+       y="32.259106"
+       id="text483"><tspan
+         sodipodi:role="line"
+         id="tspan481"
+         style="stroke-width:0.7"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;line-height:1.2;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:round"
+       x="158.81407"
+       y="45.450081"
+       id="text499"><tspan
+         sodipodi:role="line"
+         id="tspan497"
+         style="stroke-width:0.7"
+         x="158.81407"
+         y="45.450081"></tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.7"
+         id="tspan501"
+         x="158.81407"
+         y="57.450081" /></text>
+    <g
+       id="g3283"
+       transform="translate(-23.272388,-5.7394286)">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:1.7;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+         d="M 44.822361,54.592338 H 73.885953"
+         id="path571" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;line-height:1.2;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.7;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="46.172565"
+         y="46.103096"
+         id="text1356"><tspan
+           sodipodi:role="line"
+           id="tspan1354"
+           style="stroke:none;stroke-width:1.7"
+           x="46.172565"
+           y="46.103096">flatMap</tspan></text>
+    </g>
+    <g
+       id="g3191"
+       transform="translate(26.227612,-19.208955)">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:1.7;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-9)"
+         d="m -48.325191,147.7378 h 29.06359"
+         id="path571-7" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;line-height:1.2;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.7;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="-40.129986"
+         y="139.24855"
+         id="text1356-4"><tspan
+           sodipodi:role="line"
+           id="tspan1354-9"
+           style="stroke:none;stroke-width:1.7"
+           x="-40.129986"
+           y="139.24855">map</tspan></text>
+    </g>
+    <g
+       id="g3236"
+       transform="translate(0.36940351,-17.446538)">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:1.7;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-0)"
+         d="m 124.45924,147.21538 h 29.06359"
+         id="path571-0" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;line-height:1.2;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.7;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="127.85944"
+         y="138.72614"
+         id="text1356-9"><tspan
+           sodipodi:role="line"
+           id="tspan1354-28"
+           style="stroke:none;stroke-width:1.7"
+           x="127.85944"
+           y="138.72614">reduce</tspan></text>
+    </g>
+    <g
+       id="g3322"
+       transform="translate(0,-14.776119)">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:1.7;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-8)"
+         d="m 145.35583,63.62903 h 29.06359"
+         id="path571-5" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;line-height:1.2;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.7;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="134.87103"
+         y="55.139786"
+         id="text1356-0"><tspan
+           sodipodi:role="line"
+           id="tspan1354-2"
+           style="stroke:none;stroke-width:1.7"
+           x="134.87103"
+           y="55.139786">ReduceByKey</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;line-height:1.2;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.7;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="209.36995"
+       y="31.898848"
+       id="text2106"><tspan
+         sodipodi:role="line"
+         id="tspan2104"
+         style="stroke-width:1.7"
+         x="209.36995"
+         y="31.898848">1 [sumOfDiff] [count]</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.7"
+         x="209.36995"
+         y="43.898849"
+         id="tspan2110">2 [sumOfDiff] [count]</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.7"
+         x="209.36995"
+         y="55.898853"
+         id="tspan2112">...</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.7"
+         x="209.36995"
+         y="67.898849"
+         id="tspan2114">N [sumOfDiff] [count]</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.7"
+         x="209.36995"
+         y="79.898849"
+         id="tspan2108" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;line-height:1.2;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.7;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="21.318043"
+       y="114.4626"
+       id="text2106-2"><tspan
+         sodipodi:role="line"
+         id="tspan2104-3"
+         style="stroke-width:1.7"
+         x="21.318043"
+         y="114.4626">1 [sumOfDiff]/[count]</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.7"
+         x="21.318043"
+         y="126.4626"
+         id="tspan2110-4">2 [sumOfDiff]/[count]</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.7"
+         x="21.318043"
+         y="138.4626"
+         id="tspan2112-8">...</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.7"
+         x="21.318043"
+         y="150.4626"
+         id="tspan2114-8">N [sumOfDiff]/[count]</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1.7"
+         x="21.318043"
+         y="162.4626"
+         id="tspan2108-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;line-height:1.2;font-family:Dubai;-inkscape-font-specification:Dubai;text-align:start;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.7;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="169.15833"
+       y="131.9776"
+       id="text2997"><tspan
+         sodipodi:role="line"
+         id="tspan2995"
+         style="stroke-width:1.7"
+         x="169.15833"
+         y="131.9776">UserId [smallestAvgDiff]</tspan></text>
+  </g>
+</svg>

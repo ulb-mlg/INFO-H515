@@ -1,0 +1,12 @@
+# Virtual environment
+Practicals2026_withJupyterbook/.venvH515/
+
+# (Optional) Common Python ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
