@@ -32,3 +32,5 @@ project:
 
 site:
   template: book-theme
+  options:
+    BASE_URL: /INFO-H515/
