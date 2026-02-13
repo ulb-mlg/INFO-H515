@@ -12,25 +12,7 @@ project:
     - file: practical2026_jupyterbook/tp1/1-IntroSpark-ChurnPrediction-WithSolutions.ipynb
       title: "TP1. Spark Intro & Churn Prediction"
 
-    - file: practical2026_jupyterbook/tp2/2-LinearRegression-WithSolutions.ipynb
-      title: "TP2. Linear Regression"
 
-    - file: practical2026_jupyterbook/tp3/3_Streaming_Analytics_with_solutions.ipynb
-      title: "TP3. Streaming Analytics"
-
-    - file: practical2026_jupyterbook/tp4/4-ALS_Recommendation-WithSolutions.ipynb
-      title: "TP4. Recommendation Systems"
-
-    - file: practical2026_jupyterbook/tp5/INFO-H-515 - Practical 5 - Exam Question Feature Selection.ipynb
-      title: "TP5.1. Feature Selection"
-
-    - file: practical2026_jupyterbook/tp5/INFO-H-515 - Practical 5 - Exam Question Inner Product.ipynb
-      title: "TP5.2. Inner Product"
-
-    - file: practical2026_jupyterbook/tp5/INFO-H-515 - Practical 5 - Exam Question Matrix Transposition.ipynb
-      title: "TP5.3. Matrix Transposition"
 
 site:
   template: book-theme
-  options:
-    BASE_URL: /INFO-H515/
