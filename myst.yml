@@ -14,5 +14,6 @@ project:
 site:
   template: book-theme
 
-html:
-  baseurl: /INFO-H515/
+sphinx: 
+  config: 
+    html_baseurl: "/INFO-H515/"
