@@ -14,5 +14,3 @@ project:
 
 site:
   template: book-theme
-  options:
-    base_url: /INFO-H515/saved_build/html/
