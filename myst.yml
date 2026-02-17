@@ -16,3 +16,4 @@ site:
   template: book-theme
   options:
     BASE_URL: /INFO-H515/
+    html_baseurl: /INFO-H515/
