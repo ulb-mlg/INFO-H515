@@ -1,5 +1,0 @@
-notes TP4 bigdata:
-- in the data visualization, features 4 and 5 are redundant features and they seem to be more correlated to the label than features 0 and 1, which are the original informative features. But, 4 and 5 are computed from linear combination of feature 0 and 1, so, 4 and 5 both exhibit information from both 0 and 1, wheras 0 and 1 each exhibit only their own information. That is why 4 and 5 seem to be more correlated with the label than 0 and 1. Thus, if we select only features 4 and 5 for classification, we would get exactly the same prediction power as selecting only 0 and 1.
-because Y is itself a linear combination of 0 and 1
-
-- Local variables used in spark stages are automatically broadcasted, so, if we do not broadcast Y manually, the result is the same and Y gets broadcast. spark doc : "Spark automatically broadcasts the common data needed by tasks within each stage"
