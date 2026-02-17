@@ -13,7 +13,3 @@ project:
 
 site:
   template: book-theme
-
-sphinx: 
-  config: 
-    html_baseurl: "/INFO-H515/"
