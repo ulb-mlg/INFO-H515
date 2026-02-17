@@ -1,7 +1,7 @@
 # deploy.ps1
 # Windows PowerShell script to build and deploy a Jupyter Book 2.x site to gh-pages
 
-$env:BASE_URL = "/"
+$env:BASE_URL = "INFO-H515"
 
 
 # 1️⃣ Make sure we're on main

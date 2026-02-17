@@ -15,4 +15,4 @@ project:
 site:
   template: book-theme
   options:
-    base_url: /
+    base_url: /INFO-H515/
