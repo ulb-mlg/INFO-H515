@@ -1,20 +1,14 @@
 # deploy.ps1
 # Windows PowerShell script to build and deploy a Jupyter Book 2.x site to gh-pages
 
+$env:BASE_URL = "/INFO-H515/"
+
+
 # 1️⃣ Make sure we're on main
 $branch = git branch --show-current
 if ($branch -ne "main") {
     Write-Error "You must run this script from the 'main' branch. Current branch: $branch"
     exit 1
-}
-
-# 2️⃣ Activate virtual environment
-$venvPath = ".\.venvH515\Scripts\Activate.ps1"
-if (Test-Path $venvPath) {
-    Write-Host "Activating virtual environment..."
-    & $venvPath
-} else {
-    Write-Warning "Virtual environment not found at $venvPath. Make sure Jupyter Book is installed."
 }
 
 # 3️⃣ Clean old builds
