@@ -1,5 +1,5 @@
 # deploy.ps1
-# Build Jupyter Book on main, delete gh-pages, recreate it from main, deploy site into subfolder matching repo
+# Build Jupyter Book on main, delete gh-pages, recreate it from main, deploy site
 
 # 1. Must be on main
 $branch = git branch --show-current
@@ -24,22 +24,18 @@ git push origin --delete gh-pages 2>$null
 # 5. Recreate gh-pages from main
 git checkout -b gh-pages
 
-# 6. Remove everything tracked
+# 6. Remove everything tracked (there will be source files at this point)
 git rm -rf .
 
-# 7. Create the folder for Option 1 deployment
-$repoFolder = "INFO-H515"  # folder name must match your base_url
-New-Item -ItemType Directory -Force -Path $repoFolder
+# 7. Copy built site to repo root
+Copy-Item -Recurse _build/html/* .
 
-# 8. Copy built site into the subfolder
-Copy-Item -Recurse _build/html/* $repoFolder\
-
-# 9. Commit and push
+# 8. Commit and push
 git add .
-git commit -m "Deploy Jupyter Book into $repoFolder subfolder"
+git commit -m "Deploy Jupyter Book"
 git push origin gh-pages
 
-# 10. Return to main
+# 9. Go back to main
 git checkout main
 
-Write-Host "✅ gh-pages branch recreated and site deployed successfully into '$repoFolder'!"
+Write-Host "✅ gh-pages branch recreated and site deployed successfully!"
