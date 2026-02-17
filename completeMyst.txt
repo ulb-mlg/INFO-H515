@@ -1,0 +1,34 @@
+version: 1
+project:
+  id: 34273ef0-fe22-48ae-8df5-3417c0eca5af
+  title: INFO-H515 - Practical handbook
+  authors: Martin Colot
+  toc:
+    - file: practical2026_jupyterbook/welcomePage.ipynb
+
+    - file: practical2026_jupyterbook/Check_Setup/DemoRDD_local.ipynb
+      title: "Check Setup"
+
+    - file: practical2026_jupyterbook/tp1/1-IntroSpark-ChurnPrediction-WithSolutions.ipynb
+      title: "TP1. Spark Intro & Churn Prediction"
+
+    - file: practical2026_jupyterbook/tp2/2-LinearRegression-WithSolutions.ipynb
+      title: "TP2. Linear Regression"
+
+    - file: practical2026_jupyterbook/tp3/3_Streaming_Analytics_with_solutions.ipynb
+      title: "TP3. Streaming Analytics"
+
+    - file: practical2026_jupyterbook/tp4/4-ALS_Recommendation-WithSolutions.ipynb
+      title: "TP4. Recommendation Systems"
+
+    - file: practical2026_jupyterbook/tp5/INFO-H-515 - Practical 5 - Exam Question Feature Selection.ipynb
+      title: "TP5.1. Feature Selection"
+
+    - file: practical2026_jupyterbook/tp5/INFO-H-515 - Practical 5 - Exam Question Inner Product.ipynb
+      title: "TP5.2. Inner Product"
+
+    - file: practical2026_jupyterbook/tp5/INFO-H-515 - Practical 5 - Exam Question Matrix Transposition.ipynb
+      title: "TP5.3. Matrix Transposition"
+
+site:
+  template: book-theme

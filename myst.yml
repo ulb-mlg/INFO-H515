@@ -12,7 +12,7 @@ project:
     - file: practical2026_jupyterbook/tp1/1-IntroSpark-ChurnPrediction-WithSolutions.ipynb
       title: "TP1. Spark Intro & Churn Prediction"
 
-
-
 site:
   template: book-theme
+  options:
+    base_url: /INFO-H515/
